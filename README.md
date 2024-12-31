@@ -18,6 +18,9 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 #### Medical Science
 - [Science 2019] Adversarial attacks on medical machine learning ([Paper](https://www.science.org/doi/full/10.1126/science.aaw4399))
 
+#### Industrial Engineering
+- [Science 2023] Experimental evidence on the productivity effects of generative artificial intelligence ([Paper](https://www.science.org/doi/full/10.1126/science.adh2586))
+
 
 #### Robotics
 - [Science 2019] A robotic platform for flow synthesis of organic compounds informed by AI planning ([Paper](https://www.science.org/doi/full/10.1126/science.aax1566))
