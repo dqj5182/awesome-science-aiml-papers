@@ -2,8 +2,25 @@
 We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at [Science](https://www.science.org/) journal.
 
 ## Papers
+#### Programming
+- [Science 2022] Competition-level code generation with AlphaCode ([Paper](https://www.science.org/doi/full/10.1126/science.abq1158))
+
+
+#### Biology
+- [Science 2022] Robust deep learning–based protein sequence design using ProteinMPNN ([Paper](https://www.science.org/doi/full/10.1126/science.add2187))
+- [Science 2019] Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning ([Paper](https://www.science.org/doi/full/10.1126/science.aaw1147))
+- [Science 2019] Prediction of higher-selectivity catalysts by computer-driven workflow and machine learning ([Paper](https://www.science.org/doi/full/10.1126/science.aau5631))
+
+#### Earth Science
+- [Science 2019] Machine learning for data-driven discovery in solid Earth geoscience ([Paper](https://www.science.org/doi/full/10.1126/science.aau0323))
+
+
 #### Medical Science
 - [Science 2019] Adversarial attacks on medical machine learning ([Paper](https://www.science.org/doi/full/10.1126/science.aaw4399))
+
+
+#### Robotics
+- [Science 2019] A robotic platform for flow synthesis of organic compounds informed by AI planning ([Paper](https://www.science.org/doi/full/10.1126/science.aax1566))
 
 
 #### Gaming
