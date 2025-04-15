@@ -2,11 +2,15 @@
 We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at [Science](https://www.science.org/) journal.
 
 ## Papers
+#### General
+- [Science 2015] Machine learning: Trends, perspectives, and prospects ([Paper](https://www.science.org/doi/10.1126/science.aaa8415))
+
 #### Neural Network
 - [Science 2006] Reducing the Dimensionality of Data with Neural Networks ([Paper](https://www.science.org/doi/10.1126/science.1127647))
 
 #### Programming
 - [Science 2022] Competition-level code generation with AlphaCode ([Paper](https://www.science.org/doi/full/10.1126/science.abq1158))
+- [Science 2006] Human-level concept learning through probabilistic program induction
 
 
 #### Biology
@@ -23,7 +27,7 @@ We list out AI (Artificial Intelligence), ML (Machine Learning) papers published
 
 #### Industrial Engineering
 - [Science 2023] Experimental evidence on the productivity effects of generative artificial intelligence ([Paper](https://www.science.org/doi/full/10.1126/science.adh2586))
-
+- [Science 2017] What can machine learning do? Workforce implications
 
 #### Robotics
 - [Science 2019] A robotic platform for flow synthesis of organic compounds informed by AI planning ([Paper](https://www.science.org/doi/full/10.1126/science.aax1566))
