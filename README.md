@@ -2,6 +2,9 @@
 We list out AI (Artificial Intelligence), ML (Machine Learning) papers published at [Science](https://www.science.org/) journal.
 
 ## Papers
+#### Neural Network
+- [Science 2006] Reducing the Dimensionality of Data with Neural Networks ([Paper](https://www.science.org/doi/10.1126/science.1127647))
+
 #### Programming
 - [Science 2022] Competition-level code generation with AlphaCode ([Paper](https://www.science.org/doi/full/10.1126/science.abq1158))
 
